@@ -1,7 +1,7 @@
 # CMU Interactive Data Science Assigment 3
 
 * **Team members**: Bradley Warren and Christian Deverall
-* **Online URL**: https://s4a.streamlit.io/cmu-ids-2020/a3-template/master/streamlit_app.py/+/
+* **Online URL**: https://share.streamlit.io/cmu-ids-2020/a3-b-c
 * **Andrew IDs**: bwarren2 and cdeveral
 ## Instructions
 
