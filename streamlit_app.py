@@ -26,7 +26,7 @@ repeated_data = Your_Covid_Data()
 world_data = Your_World_Data()
 
 
-my_selector = alt.selection_multi(fields = ["properties.location"],init = [{"properties.location": "United States"}])
+my_selector = alt.selection_multi(fields = ["properties.location"],init = [{"properties.location": "United States"},{"properties.location": "India"}])
 
 chart = alt.Chart(repeated_data,title = "Percentage of Elderly and GDP for each Country").mark_circle().encode(
     x = alt.X("properties.gdp_per_capita:Q", title='GDP per Capita'),
